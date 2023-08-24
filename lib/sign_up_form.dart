@@ -81,7 +81,7 @@ class _SignupScreenState extends State<SignupScreen> {
                     value: selectedItem,
                     decoration: InputDecoration(
                       labelText: 'Select Role',
-                      fillColor: Colors.white,
+                      fillColor: Colors.white54,
                       filled: true,
                       focusedBorder: OutlineInputBorder(
                         borderSide: const BorderSide(color: Colors.brown),
